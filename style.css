@@ -1,0 +1,16 @@
+.pDestacados {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 15px;
+    margin-left:20%;
+    margin-top: 10em;
+}
+
+.card {
+    height: 20em;
+    width: 10%;
+}
